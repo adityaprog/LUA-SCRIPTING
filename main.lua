@@ -24,4 +24,4 @@ With two Hyphen and two square brackets without space.
 
 ]]
 
-print("Hello Viewers!") --print is used to get results on terminal
+print("Hello Viewers!") --print("") is used to get results on terminal
