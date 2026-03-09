@@ -10,3 +10,5 @@ For text/strings, use quotes --> ' ', " "
 
 
 ]]
+
+print("1 + 2 =", 1+2)
